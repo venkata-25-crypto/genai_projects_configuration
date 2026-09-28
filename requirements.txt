@@ -1,0 +1,9 @@
+langchain_classic
+langchain
+streamlit
+langchain_openai
+langchain_community
+python-dotenv
+langgraph
+langgraph.checkpoint.sqlite
+ddgs
